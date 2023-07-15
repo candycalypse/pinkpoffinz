@@ -1,0 +1,1 @@
+"NeckFluffRoot" needs to be parented to the CHEST BONE, not the neck bone, thank you <3
